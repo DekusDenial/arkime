@@ -2,7 +2,7 @@ shared:
     settings:
         slack:
             channels:
-                - moloch
+                - moloch 
             statuses:
                 - FAILURE
                 - ABORTED
